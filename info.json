@@ -1,11 +1,11 @@
 {
   "name": "CheaperResearch",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "title": "CheaperResearch",
   "author": "Mongokatten",
   "contact": "https://github.com/Mongokatten/CheaperResearch/issues/",
   "homepage": "https://github.com/Mongokatten/CheaperResearch/",
-  "factorio_version" : "0.17",
+  "factorio_version" : "0.18",
   "description": "Linear cost for infinite researches",
-  "dependencies": ["base >= 0.17.0"]
+  "dependencies": ["base >= 0.18.0"]
 }
